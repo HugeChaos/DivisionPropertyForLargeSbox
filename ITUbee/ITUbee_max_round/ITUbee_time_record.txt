@@ -1,0 +1,12 @@
+After 0.12000703811645508time, we found 1 rounds integral distinguish.
+
+After 0.18101048469543457time, we found 2 rounds integral distinguish.
+
+After 0.49002790451049805time, we found 3 rounds integral distinguish.
+
+After 1.6820964813232422time, we found 4 rounds integral distinguish.
+
+After 2427.6051046848297time, we found 5 rounds integral distinguish.
+
+After 7814.423873662949time, we show no 6 round integral distinguish.
+

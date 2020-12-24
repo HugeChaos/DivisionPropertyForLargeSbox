@@ -1,0 +1,64 @@
+********************1th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************2th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************3th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************4th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************5th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************6th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************7th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************8th  4round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 

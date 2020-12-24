@@ -1,0 +1,512 @@
+********************1th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************2th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************3th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************4th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************5th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************6th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************7th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************8th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************9th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************10th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************11th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************12th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************13th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************14th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************15th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************16th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************17th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************18th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************19th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************20th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************21th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************22th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************23th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************24th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************25th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************26th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************27th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************28th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************29th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************30th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************31th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************32th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************33th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************34th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************35th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************36th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************37th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************38th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************39th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************40th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************41th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************42th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************43th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************44th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************45th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************46th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************47th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************48th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************49th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************50th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************51th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************52th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************53th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************54th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************55th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************56th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************57th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************58th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************59th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************60th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************61th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************62th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************63th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+********************64th  3round integral distinguish (weight = 7) based on division property is found.
+when the values:
+b = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+the balance position is:
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 
+bbbb bbbb bbbb bbbb 

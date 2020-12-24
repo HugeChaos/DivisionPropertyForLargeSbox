@@ -1,0 +1,26 @@
+After 0.02500152587890625time, we found 1 rounds integral distinguish.
+
+After 0.03400158882141113time, we found 2 rounds integral distinguish.
+
+After 0.044002532958984375time, we found 3 rounds integral distinguish.
+
+After 0.05300283432006836time, we found 4 rounds integral distinguish.
+
+After 0.0630037784576416time, we found 5 rounds integral distinguish.
+
+After 0.08000445365905762time, we found 6 rounds integral distinguish.
+
+After 0.14200806617736816time, we found 7 rounds integral distinguish.
+
+After 0.16600942611694336time, we found 8 rounds integral distinguish.
+
+After 0.48802804946899414time, we found 9 rounds integral distinguish.
+
+After 17.693154335021973time, we found 10 rounds integral distinguish.
+
+After 36.709269762039185time, we found 11 rounds integral distinguish.
+
+After 55.60210990905762time, we found 12 rounds integral distinguish.
+
+After 9822.107566595078time, we show no 13 round integral distinguish.
+
